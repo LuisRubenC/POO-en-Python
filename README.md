@@ -67,7 +67,3 @@ Estudiante registrado.
 ```bash
 javac App.java
 
-## Enlace a Microsoft Planner
-`https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.planner/mytasks?tenantId=f94bf4d9-8097-4794-adf6-a5466ca28563&webUrl=https%3A%2F%2Ftasks.teams.microsoft.com%2Fteamsui%2FpersonalApp%2Falltasklists&context=%7B%22subEntityId%22%3A%22%2Fv1%2Fassignedtome%2Fview%2Fboard%2Ftask%2F0Q6uaWP_bkWtrN6szEjiDmQAJy91%22%7D`
-
-
